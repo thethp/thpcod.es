@@ -65,6 +65,10 @@ h2 {
   background: url(http://thpcod.es/images/responsive/hubwanderer.png) #0A5B63 no-repeat center center;
   background-size: 80% 80%;
 }
+.link.project.beatspaces {
+  background: url(http://thpcod.es/images/responsive/beatspaces.png) #0A5B63 no-repeat center center;
+  background-size: 80% 80%;
+}
 .link.project.hulucastable {
   background: url(http://thpcod.es/images/responsive/hulu.png) #0A5B63 no-repeat center center;
   background-size: 65% 65%;
