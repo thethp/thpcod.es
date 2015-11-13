@@ -1,0 +1,29 @@
+{
+  "name": "thpcod.es",
+  "version": "1.0.0",
+  "description": "My website tho",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thethp/thpcod.es.git"
+  },
+  "keywords": [
+    "my",
+    "fuckin",
+    "website",
+    "tho"
+  ],
+  "author": "Todd H. Page",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/thethp/thpcod.es/issues"
+  },
+  "homepage": "https://github.com/thethp/thpcod.es#readme",
+  "dependencies": {
+    "express": "^4.13.3",
+    "jade": "^1.11.0"
+  }
+}
